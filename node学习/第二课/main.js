@@ -21,3 +21,8 @@ const nums = require('./array.js');
 for(let i = 0; i < nums.length; i++){
     console.log(`${i}:${nums[i]}`);
 }
+
+console.log('main starting');
+const a = require('./a.js');
+const b = require('./b.js');
+console.log(`in main a ${a.done} b ${b.done}`);
