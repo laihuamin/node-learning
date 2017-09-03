@@ -1,0 +1,23 @@
+{
+  "name": "node-total",
+  "version": "1.0.0",
+  "description": "[![node](https://img.shields.io/node/v/gh-badges.svg)]() ## 学习篇 - [第一课](node学习/第一课/) - [第二课](node学习/第二课/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laihuamin/node-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laihuamin/node-learning/issues"
+  },
+  "homepage": "https://github.com/laihuamin/node-learning#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
