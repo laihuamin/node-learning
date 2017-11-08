@@ -7,6 +7,9 @@
 - 与其他模块搭配，比如和socket.io搭配写弹幕、im（即时聊天）等
 ### koa好在哪
 - 和express对比
+> 依赖node的版本
+1.koa要求node>0.11.0
+2.
 - koa1.x和koa2.x对比
 ### koa的分支体系
 > 主要分koa1和koa2
